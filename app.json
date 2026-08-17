@@ -15,7 +15,8 @@
         "backgroundColor": "#1a0a2e",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png"
-      }
+      },
+      "package": "noodlydev.oracle"
     },
     "web": {
       "favicon": "./assets/favicon.png"
